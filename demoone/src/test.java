@@ -3,5 +3,7 @@ public class test {
         int i=0;
         i++;
         System.out.println(i);
+        String zhi="你好";
+        System.out.println(zhi);
     }
 }
